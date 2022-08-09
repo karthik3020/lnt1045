@@ -3,3 +3,4 @@ Month is August
 Year is 2022
 
 Today it is raining
+we are learnig git
